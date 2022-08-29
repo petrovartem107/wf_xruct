@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{DA4C4EE5-D86F-41CD-883F-34F1BB3463DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{DA4C4EE5-D86F-41CD-883F-34F1BB3463DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_abstract", "Interface_abstract\Interface_abstract.csproj", "{9F2476F1-9B63-4C42-A0A4-17BAEF4A80C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DA4C4EE5-D86F-41CD-883F-34F1BB3463DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA4C4EE5-D86F-41CD-883F-34F1BB3463DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA4C4EE5-D86F-41CD-883F-34F1BB3463DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F2476F1-9B63-4C42-A0A4-17BAEF4A80C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F2476F1-9B63-4C42-A0A4-17BAEF4A80C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F2476F1-9B63-4C42-A0A4-17BAEF4A80C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F2476F1-9B63-4C42-A0A4-17BAEF4A80C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
